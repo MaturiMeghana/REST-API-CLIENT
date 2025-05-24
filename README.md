@@ -19,7 +19,19 @@ Java (JDK 11+)       -  Core programming language
  OpenWeatherMap API	 -   Source of public weather data
 org.json (JSON-Java) -   JSON parsing library
 HttpURLConnection	   -   Built-in HTTP client for making REST calls
- 
+*Platform*
+ VSCODE 
+  features & benifits in vscode              
+ Lightweight & Fast &	(Quick startup and responsive interface)
+Java Extension Pack	& (Enables Java development, debugging, and IntelliSense)
+Integrated Terminal	& (Compile and run Java directly from the editor)
+Extensions Marketplace & (	Add tools like Maven, Git, REST clients easily)
+Multi-platform      & 	(Works on Windows, macOS, and Linux)
+*Application uses*
+ 1. Real-time weather information retrieval.
+ 2. Learning REST API integration in Java.
+ 3. JSON response handling in desktop applications.
+ 4. Can be extended to mobile or web apps via backend reuse.
 
 OUTPUT
 ![Image](https://github.com/user-attachments/assets/da9e65c7-dae0-42a3-a195-604a4486070e)
